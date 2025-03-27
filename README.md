@@ -47,15 +47,12 @@ This project fulfills the following Learning Outcomes:
 
 ## 🖥️ Screenshots
 
-
 ### 📊 Histogram Window
 ![Histogram Screenshot](C:\Users\ASUS\Pictures\Screenshots\Histogram.jpg)
 
 ### 📋 Part 2 - List Output
 ![List Output Screenshot](screenshots/list_output.png)
 
-### 📂 Part 3 - Text File Output
-![Text File Screenshot](screenshots/textfile_output.png)
 
 ---
 
