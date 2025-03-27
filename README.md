@@ -48,10 +48,10 @@ This project fulfills the following Learning Outcomes:
 ## 🖥️ Screenshots
 
 ### 📊 Histogram Window
-<img src="Screenshots/Histogram.jpg" alt="Histogram Screenshot" width="300"/>
+<img src="Screenshots/Histogram.jpg" alt="Histogram Screenshot" width="450"/>
 
 ### 📋 Part 2 - List Output
-<img src="Screenshots/list_output.png" alt="List Output Screenshot" width="300"/>
+<img src="Screenshots/list_output.png" alt="List Output Screenshot" width="450"/>
 
 ---
 
