@@ -47,13 +47,9 @@ This project fulfills the following Learning Outcomes:
 
 ## 🖥️ Screenshots
 
-> Replace the image links with your actual screenshots.
-
-### 📌 Terminal Input and Validation
-![Terminal Input Screenshot](screenshots/terminal_input.png)
 
 ### 📊 Histogram Window
-![Histogram Screenshot](screenshots/histogram_output.png)
+![Histogram Screenshot](C:\Users\ASUS\Pictures\Screenshots\Histogram.jpg)
 
 ### 📋 Part 2 - List Output
 ![List Output Screenshot](screenshots/list_output.png)
