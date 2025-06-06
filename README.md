@@ -9,7 +9,7 @@ This project fulfills the following Learning Outcomes:
 - Implement Python programs using conditional logic and loops.
 - Handle input validation and error reporting.
 - Use data structures like lists and file I/O for data management.
-- Render graphical histograms using `graphics.py`.
+- Render graphical histograms using `graphics.py
 
 ---
 
